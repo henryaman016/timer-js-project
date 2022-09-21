@@ -1,0 +1,19 @@
+
+.wrapper{
+    padding: 30px;
+    background-color: black;
+     width: 300px;
+    padding-left: 120px;
+    color: blue;
+    
+  }
+  
+  button{
+    color: red;
+    background-color: yellow;
+    
+  }
+  button:hover{
+    color: red;
+    background-color: yellow;
+  }
